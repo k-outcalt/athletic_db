@@ -1,6 +1,6 @@
 # Practice Tracker
 ## by Katherine Outcalt
-### A database program that tracks a team's performance in practices over time to determine the best performing players.
+### A database program that tracks a team's performance in practices over time to determine the highest performing players.
 
 Practice tracker has multiple features that helps teams use data to their advantage. It can store, search, and generate data about a group of players on a team. Queries are used to find which players are performing the best. Functionality includes:
 - inserting statistics for the players for each drill
